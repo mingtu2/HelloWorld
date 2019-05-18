@@ -13,6 +13,6 @@
   <body>
   <h2 style="color: red">欢迎来到四望中学</h2>
   <h2 style="color: red">欢迎来到四望中学</h2>
-  <h2 style="color: red">欢迎来到四望中学2</h2>
+  <h2 style="color: red">欢迎来到四望中学444</h2>
   </body>
 </html>
